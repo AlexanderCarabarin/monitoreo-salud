@@ -3,7 +3,7 @@ import { StyleSheet, ScrollView, View, Text } from 'react-native';
 import FontAwesome from '@expo/vector-icons/FontAwesome';
 import { useAuth } from '../_layout';
 
-// TDA (Tipos de Datos Abstractos)
+
 interface DetallePerfil {
   nombre: string;
   rol: string;
